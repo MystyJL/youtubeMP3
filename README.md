@@ -3,6 +3,7 @@ Just a simple python application that downloads youtube videos as mp3 files. Not
 ## Dependancies
 - yt_dlp
 - dearpygui
-
+## python version
+- 3.12.7
 
 
